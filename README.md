@@ -18,6 +18,8 @@ As the code is written to accompany the book, I don't intend to add
 new features. However, if there are bugs found I may report them. 
 Feel free to fork and modify the code.
 
+## How to build and run the code
+
 ## License
 
 MIT License
